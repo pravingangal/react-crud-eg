@@ -8,17 +8,7 @@
   font-size: 15px;
 }
 .popmodal > .clcls {
-  /*cursor: pointer;
-  position: absolute;
-  display: block;
-  padding: 2px 5px;
-  line-height: 20px;
-  right: -10px;
-  top: -10px;
-  font-size: 24px;
-  background: #ffffff;
-  border-radius: 18px;
-  border: 1px solid #cfcece;*/
+ 
   cursor: help;
   position: absolute;
   display: block;
@@ -47,11 +37,7 @@
   padding: 0px;
 }
 .popmodalolaycls {
-  /* position: fixed;
-  inset: 0px;
-  background: rgba(50, 39, 100, 0.5) none repeat scroll 0% 0%;
-  display: flex;
-  z-index: 999;*/
+
   background: rgb(230, 221, 221, 0.5) none repeat scroll 0% 0%;
   inset: 0px;
   position: fixed;
@@ -69,15 +55,7 @@
   padding: 10px;
   box-shadow: 5px 10px;
   position: relative;
-  /*
-  position: relative;
-background: rgb(255, 255, 255) none repeat scroll 0% 0%;
-width: 90%;
-margin: auto;
-border: 1px solid rgb(187, 187, 187);
-padding: 5px;
-max-width: 600px;
-*/
+
 }
 .maincls label {
   font-weight: bold;
