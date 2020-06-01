@@ -5,4 +5,4 @@ This repo contains all required files in "src" folder and has package.json file 
 
 ### Opening Screen : 
 
-![Opening Screen](/images/github-logo.png)
+![Opening Screen](../images/github-logo.png)
