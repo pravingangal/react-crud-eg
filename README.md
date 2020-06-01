@@ -3,6 +3,8 @@ This repo contains all required files in "src" folder and has package.json file 
 
 ### install : npm install bootstrap --save   and npm install react-bootstrap-table-next --save
 
+### Add code from index.js to your index.js
+
 ## Screenshots of project run locally on "localhost:3000"
 
 ### Opening Screen : 
